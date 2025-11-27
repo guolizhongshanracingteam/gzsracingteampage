@@ -7,14 +7,14 @@
 <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">University of Oxford</span>
-      <span class="timeline-role">DPhil in Machine Learning</span>
-      <span class="timeline-dates">Oct 2024 – <strong class="text-accent">Present</strong></span>
+      <span class="timeline-org">National Sun Yat-Sen University</span>
+      <span class="timeline-role">Formula Student</span>
+      <span class="timeline-dates">2025 – <strong class="text-accent">Present</strong></span>
     </div>
-    <div class="timeline-desc">Exploring the scaling laws of AI Safety.</div>
+    <div class="timeline-desc">Just Founded</div>
   </div>
 
-  <div class="timeline-item">
+  <!-- <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
       <span class="timeline-org">Spotify</span>
@@ -79,3 +79,4 @@
     <div class="timeline-meta">First Class • Academic Scholarship</div>
   </div>
 </div>
+ -->

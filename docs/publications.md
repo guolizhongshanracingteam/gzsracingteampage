@@ -3,6 +3,24 @@
 ## 2025
 
 <div class="publication-card">
+    <div class="publication-content">
+        <h3 class="publication-title">
+            <a href="/AgentBreeder" class="publication-link">
+                We do not have any :(
+            </a>
+        </h3>
+        <div class="publication-venue">National Sun Yat-Sen University</div>
+        <div class="publication-authors">Alone</div>
+        <div class="publication-year">2025</div>
+        <div class="publication-tags">
+            <span class="tag tag-safety">Need</span>
+            <span class="tag tag-safety">More</span>
+            <span class="tag tag-safety">Member</span>
+        </div>
+    </div>
+</div>
+
+<!-- <div class="publication-card">
     <div class="publication-image">
         <img src="assets/AgentBreederDiagramJPG.jpg" alt="AgentBreeder publication">
     </div>
@@ -21,9 +39,9 @@
             <a href="https://github.com/J-Rosser-UK/AgentBreeder" class="tag tag-github">GITHUB</a>
         </div>
     </div>
-</div>
+</div> -->
 
-<div class="publication-card">
+<!-- <div class="publication-card">
     <div class="publication-image">
         <img src="assets/stream_jpg.jpg" alt="Stream publication">
     </div>
@@ -62,3 +80,4 @@
         </div>
     </div>
 </div>
+ -->
